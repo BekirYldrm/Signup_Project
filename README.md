@@ -20,6 +20,6 @@ In the hidden file (data.js), MailChimp API key, ID and URL information are stor
 * `npm i express`
 * `npm i body-parser`
 * `npm i request`  
-  After installing these three npm packages from terminal,
+After installing these three npm packages from terminal,
 * `node app.js`  
 You can open the project from localhost with the command.
